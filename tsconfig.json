@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "incremental": true,
+    "allowImportingTsExtensions": true,
+    "allowJs": true,
+    "baseUrl": "./",
+    "types": ["vite/client", "@vitejs/plugin-rsc/types"],
+    "paths": {
+      "@/*": ["src/*"],
+      "@/package.json": ["./package.json"]
+    }
+  }
+}
