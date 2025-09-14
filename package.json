@@ -39,7 +39,7 @@
         "changelog": "chng && git add changelog.md",
         "prerelease": "pnpm lint && pnpm build",
         "release": "bumpp && pnpm publish",
-        "postinstall": "simple-git-hooks"
+        "prepare": "simple-git-hooks"
     },
     "dependencies": {
         "radix3": "^1.1.2",
