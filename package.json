@@ -1,6 +1,6 @@
 {
     "name": "vite-plugin-rsc-pages",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "React Server Components (RSC) NextJS-like app router plugin for Vite.",
     "license": "MIT",
     "repository": "mrozio13pl/vite-plugin-rsc-pages",
