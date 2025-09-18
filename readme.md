@@ -4,7 +4,7 @@
 
 ## Overview
 
-The plugin is built on top of [@vitejs/plugin-rsc](https://github.com/vitejs/vite-plugin-rsc) and provides file system based routing with RSC and server actions.
+The plugin is built on top of [@vitejs/plugin-rsc](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-rsc) and provides file system based routing with RSC and server actions.
 
 ### Features
 
